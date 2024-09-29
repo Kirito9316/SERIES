@@ -1,10 +1,92 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/ikqlGaEt9lv9LEUX02LO9fNJ0x4.jpg" group-title="Series",Peaky Blinders
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/ikqlGaEt9lv9LEUX02LO9fNJ0x4.jpg" group-title="Netflix",Peaky Blinders
 https://archive.org/download/elch4v0/P3KY.m3u
 
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/SOBRENATURAL.jpg" group-title="Series",SOBRENATURAL
-https://raw.githubusercontent.com/Kirito9316/SERIES/refs/heads/main/SUPERNATURAL.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/SOBRENATURAL.jpg" group-title="Netflix",SOBRENATURAL
 
-#EXTINF:-1 tvg-logo="http://archive.org/download/wv-2_20210119/WV.jpg" group-title="Series",Wandavision
+#EXTINF:-1 tvg-logo="http://archive.org/download/wv-2_20210119/WV.jpg" group-title="Netflix",Wandavision
 https://archive.org/download/elch4v0/w.m3u
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-umbrella-academy.jpg"group-title="Netflix",The Umbrella Academy
+https://raw.githubusercontent.com/BrianRVP/Cuantas/main/The%20Umbrella%20Academy
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/ulGaOy0dUXAm8V2XRmIrQ3xE8lt.jpg" group-title="Netflix",Avatar:La leyenda de aang latino
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Avatar
+
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/GAMBITO DE DAMA.jpg" group-title="Netflix",GAMBITO DE DAMA
+http://archive.org/download/gam_20201208/GAM.m3u
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZDI0ZDVhNTctOWI5Yy00NDE4LWI0MjctYTJiODU4ODA1YTJjXkEyXkFqcGdeQXVyNDY5MjMyNTg@._V1_FMjpg_UX1000_.jpg" group-title="Netflix",EL JUEGO DEL CALAMAR
+https://archive.org/download/elch4v0/calam.m3u
+
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/EL ROBO DEL SIGLO.jpg" group-title="Netflix",EL ROBO DEL SIGLO
+http://archive.org/download/t-1erdsfugjxuv/T1erdsfugjxuv.m3u
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-chapo.jpg" group-title="Netflix",El chapo
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/El%20chapo
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/how-to-become-a-cult-leader-1690765194.png" group-title="Netflix",Como se convirtieron en lideres de sectas latino
+https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Como%20se%20convirtieron%20en%20lideres%20de%20sectas
+
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/EL BUEN DOCTOR.jpg" group-title="Prime video",THE GOOD DOCTOR
+http://archive.org/download/ns_20210520/El%20buen%20doctor.m3u
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA3NDk0NzM1MF5BMl5BanBnXkFtZTcwOTYxMTk3OQ@@._V1_FMjpg_UX1000_.jpg" group-title="Star+",BAJO EL DOMO	
+https://archive.org/download/elch4v0/domi.m3u
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sbmiHPvhCi10oYzCPhbbROORb2B.jpg" group-title="Prime video",DE VIAJE CON LOS DERBEZ
+http://archive.org/download/ns_20210520/DEVIAJECONLOSDER.m3u
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/Jxl5Z1JBWnd2JWJUgYsm8FIzG4.jpg" group-title="Prime video",EL JOVEN SHELDON
+http://archive.org/download/ns_20210520/JOVESH.m3u
+
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/LA TEORIA DEL BIN BANG.jpg" group-title="HBO Max",LA TEORIA DEL BIN BANG
+http://archive.org/download/peliculas_201903/La%20teoria%20del%20big%20bang.m3u
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-last-of-us-2-1673841725.jpg" group-title="HBO Max",THE LAST OF US 
+https://bit.ly/40mir4A
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/6Sdm5XwdCnspdEF8fTFx6UJrl7o.jpg" group-title="HBO Max",Euphoria 1
+https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Euphoria
+
+#EXTINF:-1 tvg-logo="http://archive.org/download/0124101001011/AVATAR LA LEYENDA DE AANG.jpg" group-title="Animes",AVATAR LA LEYENDA DE AANG
+https://archive.org/download/elch4v0/avatar.m3u
+
+#EXTINF:-1 tvg-logo="https://cdn.jkanime.net/assets/images/animes/image/bleach.jpg" group-title="Animes",BLEACH SUB
+https://archive.org/download/elch4v0/BLEA.m3u
+
+#EXTINF:-1 tvg-logo="http://archive.org/download/0124101001011/CABALLEROS DEL ZODIACO SAGA  HARES.jpg" group-title="Animes",CABALLEROS DEL ZODIACO SAGA  HARES
+https://archive.org/download/ns_20210520/CZH.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/0124101001011/CABALLEROS DEL ZODIACO SAGA 12 CASAS.jpg" group-title="Animes",CABALLEROS DEL ZODIACO SAGA 12 CASAS
+https://archive.org/download/ns_20210520/CZ12.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/0124101001011/CABALLEROS DEL ZODIACO SAGA ASGARD.jpg" group-title="Animes",CABALLEROS DEL ZODIACO SAGA ASGARD
+https://archive.org/download/ns_20210520/CZAD.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/0124101001011/CABALLEROS DEL ZODIACO SAGA POSEIDON.jpg" group-title="Animes",CABALLEROS DEL ZODIACO SAGA POSEIDON
+https://archive.org/download/ns_20210520/CZP.m3u
+
+#EXTINF:-1 tvg-logo="http://archive.org/download/0124101001011/DIGIMON ADVENTURE 1.jpg" group-title="Animes",DIGIMON ADVENTURE 1
+https://archive.org/download/ns_20210520/DIGI.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/0124101001011/DIGIMON ADVENTURE 2.jpg" group-title="Animes",DIGIMON ADVENTURE 2
+https://archive.org/download/ns_20210520/digi2.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/0124101001011/DIGIMON AVENTURE 2020.jpg" group-title="Animes",DIGIMON AVENTURE 2020
+http://archive.org/download/5_20200823_20200823_2303/D20.m3u
+
+#EXTINF:-1 tvg-logo="http://archive.org/download/0124101001011/HELLSING ULTIMATE.jpg" group-title="Animes",HELLSING ULTIMATE
+https://archive.org/download/ns_20210520/HELSING%20ULTIMATE.m3u
+
+#EXTINF:-1 tvg-logo="http://archive.org/download/0124101001011/SWORD ART ONLINE 1.jpg" group-title="Animes",SWORD ART ONLINE 1
+http://archive.org/download/sao1_20200817/sao1.m3u
+
+#EXTINF:-1 tvg-logo="http://archive.org/download/0124101001011/SWORD ART ONLINE 3.jpg" group-title="Animes",SWORD ART ONLINE 3
+https://archive.org/download/ns_20210520/SWO3.m3u
+
+#EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/GARFIELD.jpg" group-title="Caricaturas",GARFIELD
+http://archive.org/download/g470_20200814/g470.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/GARFIELD Y SUS AMIGOS.jpg" group-title="Caricaturas",GARFIELD Y SUS AMIGOS
+http://archive.org/download/garfieldysusamigos_202007/garfieldysusamigos.m3u
+
+#EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/X MEN DE LOS 90.jpg" group-title="Caricaturas",X MEN DE LOS 90
+https://archive.org/download/ns_20210520/xmen90.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/X MEN EVOLUTION.jpg" group-title="Caricaturas",X MEN EVOLUTION
+https://archive.org/download/ns_20210520/X%20%20MEN%20REVO.m3u
