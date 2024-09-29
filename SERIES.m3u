@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/ikqlGaEt9lv9LEUX02LO9fNJ0x4.jpg" group-title="Series",Peaky Blinders
+https://archive.org/download/elch4v0/P3KY.m3u
+
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/SOBRENATURAL.jpg" group-title="Series",SOBRENATURAL
+http://archive.org/download/ns_20210520/SUPERNATURAL.m3u
+
+#EXTINF:-1 tvg-logo="http://archive.org/download/wv-2_20210119/WV.jpg" group-title="Series",Wandavision
+https://archive.org/download/elch4v0/w.m3u
