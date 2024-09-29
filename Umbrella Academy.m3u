@@ -1,0 +1,82 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-umbrella-academy.jpg" group-title="TEMP1",cap1
+https://cache006.peliscdn.online/newhls/d0217ef30894d194c809876b4bec7fe1/EP.1.1.v0.1709304777.m3u8
+
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-umbrella-academy.jpg" group-title="TEMP1",cap2
+https://cache007.peliscdn.online/newhls/d0217ef30894d194c809876b4bec7fe1/EP.2.1.v0.1709300223.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-umbrella-academy.jpg" group-title="TEMP1",cap3
+https://cache008.peliscdn.online/newhls/d0217ef30894d194c809876b4bec7fe1/EP.3.1.v0.1709287897.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-umbrella-academy.jpg" group-title="TEMP1",cap4
+https://cache009.peliscdn.online/newhls/d0217ef30894d194c809876b4bec7fe1/EP.4.1.v0.1709273987.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-umbrella-academy.jpg" group-title="TEMP1",cap5
+https://cache010.peliscdn.online/newhls/d0217ef30894d194c809876b4bec7fe1/EP.5.1.v0.1709265157.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-umbrella-academy.jpg" group-title="TEMP1",cap6
+https://cache011.peliscdn.online/newhls/d0217ef30894d194c809876b4bec7fe1/EP.6.1.v0.1709469097.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-umbrella-academy.jpg" group-title="TEMP1",cap7
+https://cache012.peliscdn.online/newhls/d0217ef30894d194c809876b4bec7fe1/EP.7.1.v0.1709481523.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-umbrella-academy.jpg" group-title="TEMP1",cap8
+https://cache013.peliscdn.online/newhls/d0217ef30894d194c809876b4bec7fe1/EP.8.1.v0.1709465273.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-umbrella-academy.jpg" group-title="TEMP1",cap9
+https://cache014.peliscdn.online/newhls/d0217ef30894d194c809876b4bec7fe1/EP.9.1.v0.1709467147.m3u8
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-umbrella-academy.jpg" group-title="TEMP1",cap10
+https://cache015.peliscdn.online/newhls/d0217ef30894d194c809876b4bec7fe1/EP.10.1.v0.1709449903.m3u8
+
+#EXTGRP:TEMP 2
+#EXTINF:- tvg-logo="https://i.ibb.co/v1LmqBy/umbrella-academy-temporada-2-1981367.jpg",01
+https://dl.dropbox.com/scl/fi/ebhfru7nh8fu687sh6qaw/The-Umbrella-Academy-T2-Cap1.mp4?rlkey=ntvgefzrdyrajx2cgu2ovosga&dl=0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v1LmqBy/umbrella-academy-temporada-2-1981367.jpg",02
+https://dl.dropbox.com/scl/fi/38ld8s1foj3rfq79zqiwf/The-Umbrella-Academy-T2-Cap2.mp4?rlkey=aqldyxigeek9np84o3ho5vlpq&dl=0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v1LmqBy/umbrella-academy-temporada-2-1981367.jpg",03
+https://dl.dropbox.com/scl/fi/bdvi2afn4ylg3q8as5qkc/The-Umbrella-Academy-T2-Cap3.mp4?rlkey=ju27y0boybkxi3e1g5mp8w967&dl=0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v1LmqBy/umbrella-academy-temporada-2-1981367.jpg",04
+https://dl.dropbox.com/scl/fi/ng27sz8g71trbmily5nyc/The-Umbrella-Academy-T2-Cap4.mp4?rlkey=gl8tk7p34hpvo1r1pnuvpnbro&dl=0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v1LmqBy/umbrella-academy-temporada-2-1981367.jpg",05
+https://archive.org/download/the-umbrella-academy-t-2-cap-7/The%20Umbrella%20Academy%20T2%20Cap5.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v1LmqBy/umbrella-academy-temporada-2-1981367.jpg",06
+https://archive.org/download/the-umbrella-academy-t-2-cap-7/The%20Umbrella%20Academy%20T2%20Cap6.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v1LmqBy/umbrella-academy-temporada-2-1981367.jpg",07
+https://archive.org/download/the-umbrella-academy-t-2-cap-7/The%20Umbrella%20Academy%20T2%20Cap7.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v1LmqBy/umbrella-academy-temporada-2-1981367.jpg",08
+https://archive.org/download/the-umbrella-academy-t-2-cap-7/The%20Umbrella%20Academy%20T2%20Cap8.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v1LmqBy/umbrella-academy-temporada-2-1981367.jpg",09
+https://archive.org/download/the-umbrella-academy-t-2-cap-7/The%20Umbrella%20Academy%20T2%20Cap9.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v1LmqBy/umbrella-academy-temporada-2-1981367.jpg",10
+https://archive.org/download/the-umbrella-academy-t-2-cap-7/The%20Umbrella%20Academy%20T2%20Cap10.mp4
+
+
+#EXTGRP:TEMP 3
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7G4DOeIH8kaTMriVC3DIfhIhG5y.jpg",01
+https://github.com/linkarg13/SERIES2/releases/download/Theumbrescademy3/3162t4357432.1.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7G4DOeIH8kaTMriVC3DIfhIhG5y.jpg",02
+https://github.com/linkarg13/SERIES2/releases/download/Theumbrescademy3/3162t4357432.2.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7G4DOeIH8kaTMriVC3DIfhIhG5y.jpg",03
+https://github.com/linkarg13/SERIES2/releases/download/Theumbrescademy3/3162t4357432.3.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7G4DOeIH8kaTMriVC3DIfhIhG5y.jpg",04
+https://github.com/linkarg13/SERIES2/releases/download/Theumbrescademy3/3162t4357432.4.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7G4DOeIH8kaTMriVC3DIfhIhG5y.jpg",05
+https://github.com/linkarg13/SERIES2/releases/download/Theumbrescademy3/3162t4357432.5.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7G4DOeIH8kaTMriVC3DIfhIhG5y.jpg",06
+https://github.com/linkarg13/SERIES2/releases/download/Theumbrescademy3/3162t4357432.6.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7G4DOeIH8kaTMriVC3DIfhIhG5y.jpg",07
+https://github.com/linkarg13/SERIES2/releases/download/Theumbrescademy3/3162t4357432.7.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7G4DOeIH8kaTMriVC3DIfhIhG5y.jpg",08
+https://github.com/linkarg13/SERIES2/releases/download/Theumbrescademy3/3162t4357432.8.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7G4DOeIH8kaTMriVC3DIfhIhG5y.jpg",09
+https://github.com/linkarg13/SERIES2/releases/download/Theumbrescademy3/3162t4357432.9.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7G4DOeIH8kaTMriVC3DIfhIhG5y.jpg",10
+https://github.com/linkarg13/SERIES2/releases/download/Theumbrescademy3/3162t4357432.10.mp4
+
+#EXTGRP:TEMP 4
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qhcwrnnCnN8NE1N6XXKHFmveJR9.jpg",01
+https://github.com/linkarg13/SERIES2/releases/download/Theumbrellaacademy/the.1.mp4
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qhcwrnnCnN8NE1N6XXKHFmveJR9.jpg",02
+https://github.com/linkarg13/SERIES2/releases/download/Theumbrellaacademy/the.2.mp4
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qhcwrnnCnN8NE1N6XXKHFmveJR9.jpg",03
+https://github.com/linkarg13/SERIES2/releases/download/Theumbrellaacademy/the.3.mp4
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qhcwrnnCnN8NE1N6XXKHFmveJR9.jpg",04
+https://github.com/linkarg13/SERIES2/releases/download/Theumbrellaacademy/the.4.mp4
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qhcwrnnCnN8NE1N6XXKHFmveJR9.jpg",05
+https://github.com/linkarg13/SERIES2/releases/download/Theumbrellaacademy/the.5.mp4
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/qhcwrnnCnN8NE1N6XXKHFmveJR9.jpg",06
+https://github.com/linkarg13/SERIES2/releases/download/Theumbrellaacademy/the.6.mp4
