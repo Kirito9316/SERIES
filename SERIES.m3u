@@ -9,10 +9,10 @@ https://archive.org/download/elch4v0/P3KY.m3u
 https://archive.org/download/elch4v0/w.m3u
 
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-umbrella-academy.jpg"group-title="Netflix",The Umbrella Academy
-https://raw.githubusercontent.com/BrianRVP/Cuantas/main/The%20Umbrella%20Academy
+https://raw.githubusercontent.com/Kirito9316/SERIES/refs/heads/main/Umbrella%20Academy.m3u
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/ulGaOy0dUXAm8V2XRmIrQ3xE8lt.jpg" group-title="Netflix",Avatar:La leyenda de aang latino
-https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Avatar
+https://raw.githubusercontent.com/Kirito9316/SERIES/refs/heads/main/AVATAR.m3u
 
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/GAMBITO DE DAMA.jpg" group-title="Netflix",GAMBITO DE DAMA
 http://archive.org/download/gam_20201208/GAM.m3u
@@ -24,10 +24,10 @@ https://archive.org/download/elch4v0/calam.m3u
 http://archive.org/download/t-1erdsfugjxuv/T1erdsfugjxuv.m3u
 
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-chapo.jpg" group-title="Netflix",El chapo
-https://raw.githubusercontent.com/dragonmaster5678/prueba/main/El%20chapo
+https://raw.githubusercontent.com/Kirito9316/SERIES/refs/heads/main/EL%20CHAPO.m3u
 
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/how-to-become-a-cult-leader-1690765194.png" group-title="Netflix",Como se convirtieron en lideres de sectas latino
-https://raw.githubusercontent.com/dragonmaster5678/prueba/main/Como%20se%20convirtieron%20en%20lideres%20de%20sectas
+https://raw.githubusercontent.com/Kirito9316/SERIES/refs/heads/main/Como%20se%20convirtieron%20en%20lideres%20de%20sectas%201.m3u
 
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/EL BUEN DOCTOR.jpg" group-title="Prime video",THE GOOD DOCTOR
 http://archive.org/download/ns_20210520/El%20buen%20doctor.m3u
@@ -48,7 +48,7 @@ http://archive.org/download/peliculas_201903/La%20teoria%20del%20big%20bang.m3u
 https://bit.ly/40mir4A
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/6Sdm5XwdCnspdEF8fTFx6UJrl7o.jpg" group-title="HBO Max",Euphoria 1
-https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Euphoria
+https://raw.githubusercontent.com/Kirito9316/SERIES/refs/heads/main/Euphoria.m3u
 
 #EXTINF:-1 tvg-logo="http://archive.org/download/0124101001011/AVATAR LA LEYENDA DE AANG.jpg" group-title="Animes",AVATAR LA LEYENDA DE AANG
 https://archive.org/download/elch4v0/avatar.m3u
